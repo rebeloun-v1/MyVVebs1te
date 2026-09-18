@@ -1,0 +1,32 @@
+button {
+    background: #90B800;
+    color: #000000;
+    border: solid #F5EFE6 2px;
+    display: inline-block;
+    cursor: pointer;
+    line-height: 4px;
+    padding: 22px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 14px;
+    font-family: Sans;
+    width: 185px;
+    font-size: 20px;
+    font-weight: 900;
+    box-shadow: 1px 1px 6px 0px #000000;
+    -webkit-box-shadow: 1px 1px 6px 0px #000000;
+    -moz-box-shadow: 1px 1px 6px 0px #000000;
+    text-shadow: 1px 1px 6px #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+ol{
+ font-family:Papyrus;
+}
+
+
+
